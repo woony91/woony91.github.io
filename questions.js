@@ -52,17 +52,17 @@ const quizQuestions = [
 ];
 
 const wrongImages = [
-    './Images/wrong1.gif',
-    './Images/wrong2.gif',
-    './Images/wrong3.gif',
-    './Images/wrong4.gif',
-    './Images/wrong5.gif',
+    '/Images/wrong1.gif',
+    '/Images/wrong2.gif',
+    '/Images/wrong3.gif',
+    '/Images/wrong4.gif',
+    '/Images/wrong5.gif',
 ]
 
 const rightImages = [
-    './Images/right1.gif',
-    './Images/right2.gif',
-    './Images/right3.gif',
-    './Images/right4.gif',
-    './Images/right5.gif',
+    '/Images/right1.gif',
+    '/Images/right2.gif',
+    '/Images/right3.gif',
+    '/Images/right4.gif',
+    '/Images/right5.gif',
 ]
